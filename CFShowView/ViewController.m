@@ -22,9 +22,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.btn=[[UIButton alloc]initWithFrame:CGRectMake(0, 20, 100, 40)];
+    self.btn=[[UIButton alloc]initWithFrame:CGRectMake(0, 20, 200, 40)];
     [_btn setBackgroundColor:[UIColor blueColor]];
     [_btn addTarget:self action:@selector(btnClick:) forControlEvents:UIControlEventTouchUpInside];
+    [_btn setTitle:@"点击后弹出查询框" forState:UIControlStateNormal];
+    [_btn setTitleColor:[UIColor redColor] forState:UIControlStateHighlighted];
     
     [self.view addSubview:_btn];
     
