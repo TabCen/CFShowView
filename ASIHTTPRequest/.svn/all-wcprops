@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 255
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 255
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 258
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 258
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 260
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 262
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 257
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 257
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/ASIDataCompressor.m
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles
+END
+ASICloudFilesCDNRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 274
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesCDNRequest.m
+END
+ASICloudFilesContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 273
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainer.h
+END
+ASICloudFilesObjectRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 277
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesObjectRequest.m
+END
+ASICloudFilesObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 270
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesObject.h
+END
+ASICloudFilesContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 273
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainer.m
+END
+ASICloudFilesRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 271
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesRequest.h
+END
+ASICloudFilesContainerRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 280
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainerRequest.h
+END
+ASICloudFilesContainerXMLParserDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 290
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainerXMLParserDelegate.h
+END
+ASICloudFilesObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 270
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesObject.m
+END
+ASICloudFilesCDNRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 274
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesCDNRequest.h
+END
+ASICloudFilesRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 271
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesRequest.m
+END
+ASICloudFilesObjectRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 277
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesObjectRequest.h
+END
+ASICloudFilesContainerRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 280
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainerRequest.m
+END
+ASICloudFilesContainerXMLParserDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 290
+/itgroup/!svn/ver/34369/%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E8%87%AA%E5%8A%A9%E7%90%86%E8%B5%94%E7%B3%BB%E7%BB%9F/02%E6%BA%90%E4%BB%A3%E7%A0%81/mss-ios/%E5%A4%A7%E5%9C%B0%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0/ccicself/Tools/ASIHTTPRequest/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m
+END
